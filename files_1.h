@@ -5,7 +5,7 @@ class Files_1
 {
 public:
     Files_1();
-    void ifFEx(const char na1);
+    bool ifFEx(const char *na1);
     void crFi(const char pa1);
 };
 
